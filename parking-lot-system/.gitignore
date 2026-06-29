@@ -1,0 +1,22 @@
+# Build directories
+build/
+out/
+cmake-build-*/
+
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+parking_lot
+
+# IDE
+.vscode/
+.idea/
+*.vcxproj*
+
+# OS
+.DS_Store
+Thumbs.db
