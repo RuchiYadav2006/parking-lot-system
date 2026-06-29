@@ -1,0 +1,1 @@
+A command-line Parking Lot Management System built in C++ to practice low-level object-oriented design. Implements Singleton (single parking lot instance), Factory (vehicle creation), and Strategy (pluggable fee calculation) design patterns, with support for multiple vehicle and spot types, automatic spot allocation, and duration-based fee calculation.
